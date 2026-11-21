@@ -1,0 +1,40 @@
+# Elephouse, light. Paper, ink, mark, and brand red are the site's own
+# light-mode tokens (elephouse.de). The remaining ANSI colors stay in
+# that warm range, darkened so a terminal can still tell them apart
+# on the paper.
+
+mode = "light"
+
+accent = "#c4451a"
+selection = "#efe97a"
+selection_foreground = "#26221b"
+muted = "#6b6559"
+
+background = "#f8f6f1"
+dark_background = "#f0eee7"
+darker_background = "#d6d2c7"
+lighter_background = "#e7e4db"
+
+foreground = "#26221b"
+dark_foreground = "#56524a"
+light_foreground = "#46413a"
+bright_foreground = "#15100c"
+
+hyprland_active_border = "rgba(c4451aee)"
+hyprland_inactive_border = "rgba(d6d2c7ee)"
+
+red = "#993d19"
+yellow = "#6b602f"
+orange = "#c4451a"
+green = "#555c3b"
+cyan = "#4d5c56"
+blue = "#574b3f"
+magenta = "#6b4436"
+brown = "#49433a"
+
+bright_red = "#c4451a"
+bright_yellow = "#7e7137"
+bright_green = "#616a44"
+bright_cyan = "#576a63"
+bright_blue = "#635648"
+bright_magenta = "#915b49"
